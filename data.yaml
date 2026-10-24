@@ -1,0 +1,7 @@
+path: C:/BKHCM/Year4/DL/durian_dataset_merged
+train: train/images
+val: valid/images
+test: test/images
+nc: 1
+names:
+  0: durian

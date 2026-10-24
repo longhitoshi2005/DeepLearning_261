@@ -1,0 +1,15 @@
+﻿# Dataset contents
+/durian_dataset_merged/
+
+# LaTeX build output
+*.aux
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.snm
+*.toc
+*.synctex.gz
